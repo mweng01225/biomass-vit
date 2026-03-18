@@ -1,4 +1,4 @@
-\# Biomass Prediction with Vision Transformer (ViT-B/16)
+\# Biomass Prediction with Vision Transformer (ViT-B/16), built for a kaggle competition.
 
 
 
